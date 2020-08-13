@@ -1,0 +1,86 @@
+@media (max-width: 768px) {
+  .menu__img > img {
+    height: 120px;
+  }
+  .menu__perfil__img > img {
+    width: 100px;
+    height: 100px;
+    left: 59px;
+    top: 248px;
+  }
+  .menu__h1 {
+    font-size: 59px;
+  }
+  .menu__h1 > sup {
+    left: 192px;
+    top: 7px;
+  }
+  .menu__nick__name__h4{
+    font-size: 35px;
+    left: 216px;
+    top: 264px; 
+  }
+  .menu__nick__name__p{
+  font-size: 20px;
+  left: 224px;
+  top: 305px; 
+ }
+ .contenido__h5{
+   text-align: center;
+ }
+}
+@media (max-width: 576px) {
+  .menu__perfil__img > img {
+    width: 100px;
+    height: 100px;
+    left: 45px;
+    top: 248px;
+  }
+  .menu__nick__name__h4 {
+    font-size: 31px;
+    left: 170px;
+    top: 268px;
+  }
+  .menu__nick__name__p {
+    font-size: 18px;
+    left: 175px;
+    top: 303px;
+  }
+  .contenido{ width: 400px; } 
+  
+  .contenido__1 > img{ height: 200px; }
+}
+.contenido__1> h6{
+  font-size: 20px !important ;
+}
+.contenido__1> p{
+  font-size: 16px !important ;
+}
+@media (min-width: 768px) {
+  .menu__img > img {
+    height: 140px;
+  }
+  .menu__perfil__img > img {
+    width: 70px;
+    height: 70px;
+    left: 62px;
+    top: 234px;
+  }
+  .menu__h1 {
+    font-size: 43px;
+  }
+  .menu__h1 > sup {
+    left: 145px;
+    top: 1px;
+  }
+  .menu__nick__name__h4 {
+    font-size: 27px;
+    left: 164px;
+    top: 242px;
+  }
+  .menu__nick__name__p {
+    font-size: 12px;
+    left: 175px;
+    top: 274px;
+  }
+}

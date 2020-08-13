@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+img{
+    width: 100%;
+    height: 70%;
+}
+.menu__img > img {
+    width: 100%;
+    object-fit: cover;
+}
+.menu__perfil__img > img {
+    border-radius: 50%;
+    position: absolute;
+}
+.menu__h1 > sup {
+    font-size: 13px;
+    position: absolute;
+}
+.menu__nick__name__h4 {
+    position: absolute;
+}
+.menu__nick__name__p{
+    position: absolute;
+}
+.contenido__h5{
+    margin-left: 10px;
+}
+.contenido{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.contenido__1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
